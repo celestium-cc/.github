@@ -1,3 +1,9 @@
+<div align="center">
+    <a href="https://celestium.cc">
+        <img src="https://raw.githubusercontent.com/celestium-cc/.github/main/assets/celestium_1056x256.png" alt="Celestium" width="400px">
+    </a>
+</div>
+
 # Celestium Software LLC
 ## Who are we?
 Since 2025, Celestium, the team behind Lunaris, has been the leading choice for all things obfuscation and code protection related. No cut corners, just hardened engineering.
